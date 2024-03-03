@@ -1,0 +1,69 @@
+/* .fields-Sales {
+    background-color: #EEEEEE;
+    color: gray;
+    padding: 25px;
+    text-align: center;
+    border-radius: 20px;
+    margin: 20px;
+    font-size: 19px;
+} */
+
+.AllTrainingPlansFirst {
+    background-color: #EEEEEE;
+    color: gray;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 15px 30px;
+    margin-left: 0px;
+    font-size: 19px;
+    border-left: 10px solid #0A4195;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 767px) {
+    .AllTrainingPlansFirst {
+        margin-right: 0px;
+    }
+}
+
+.AllTrainingPlansSecond {
+    background-color: #EEEEEE;
+    color: gray;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 15px 20px;
+    font-size: 19px;
+    border-left: 10px solid #0A4195;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 767px) {
+    .AllTrainingPlansSecond {
+        margin-right: 0px;
+        margin-left: 0px;
+    }
+}
+
+.AllTrainingPlansThird {
+    background-color: #EEEEEE;
+    color: gray;
+    padding: 25px;
+    text-align: center;
+    border-radius: 10px;
+    margin: 15px 30px;
+    margin-right: 0px;
+    font-size: 19px;
+    border-left: 10px solid #0A4195;
+    font-family: system-ui;
+    font-weight: 600;
+}
+
+@media only screen and (max-width: 767px) {
+    .AllTrainingPlansThird {
+        margin-left: 0px;
+    }
+}

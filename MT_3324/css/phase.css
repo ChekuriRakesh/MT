@@ -1,0 +1,115 @@
+.phase-block {
+    display: flex;
+}
+
+.phase {
+    border: 1px solid rgb(243 239 239);
+    /* border-left: 8px solid #0A4195; */
+    padding: 19px 24px 3px 19px;
+    /* margin-left: 15px; */
+    border-radius: 8px;
+}
+
+.Phase-main {
+    padding: 0px 10px 0px 10px !important;
+}
+
+.progress {
+    height: 16px;
+    margin-bottom: 20px;
+    background-color: #E9E9E9;
+    border-radius: 7px;
+}
+
+
+/* 
+.progress-bar-info {
+    background-color: #97BE0B;
+} */
+
+.progress-bar-info {
+    background-color: #97BE0B;
+}
+
+.sixty {
+    width: 60%;
+    background-color: #97BE0B;
+    font-size: 10px;
+}
+
+.twenty {
+    width: 20%;
+    background-color: #97BE0B;
+    font-size: 10px;
+}
+
+.zero {
+    width: 0%;
+    color: black !important;
+    font-size: 10px;
+}
+
+.PhaseTitle {
+    margin: 0px;
+    color: #0A4195;
+    text-align: center;
+    /* margin-top: 16px; */
+    font-family: sans-serif;
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.PhasePeriod {
+    margin: 0px;
+    color: #0A4195;
+    font-size: 15px;
+}
+
+.Field-Phase {
+    margin-top: 10px;
+}
+
+
+/* .Field-Phase.active {
+    color: #fff;
+    background-color: #337ab7;
+} */
+
+
+/* .active>.phase {
+    color: #fff;
+    background-color: #0A4195 !important; 
+} */
+
+
+/* .tab-content .Phase-main .active {
+    background-color: #337ab7;
+    border-radius: 5px;
+} */
+
+
+/* .tab-content.nav-stacked>li.active>p.phase {
+    color: #fff;
+    background-color: #0a9511;
+} */
+
+
+/* .Field-Phase .nav-pills {
+    background-color: #97BE0B;
+} */
+
+
+/* .nav-pills .phase {
+    background-color: blue;
+} */
+
+.nav>li>a {
+    padding: 0px 0px;
+}
+
+.left>li.active>a>.Phase-main>.phase {
+    border-left: 8px solid #0A4195;
+    /* background-color: #337ab7; */
+    background-color: #EFF5FF;
+    /* border-radius: 15px; */
+}

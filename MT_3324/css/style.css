@@ -1,0 +1,34 @@
+body {
+    background-color: #F9F9F9
+}
+
+.pad-null {
+    padding: 0px;
+}
+
+.pad-add {
+    padding: 10px;
+}
+
+.container-fluid {
+    padding-top: 15px;
+}
+
+.container {
+    width: auto;
+    margin: 0px 15px;
+}
+
+
+/* /* .container, */
+
+.container {
+    padding-right: 12px;
+    padding-left: 12px;
+}
+
+
+/* .fafa {
+    background-color: white;
+    padding-top: 4px;
+} */

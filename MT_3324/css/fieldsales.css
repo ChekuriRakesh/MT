@@ -1,0 +1,96 @@
+/* .FieldSalesRepImage {
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+    margin-top: 15px;
+    position: relative;
+}
+
+.FieldSalesRepView {
+    position: absolute;
+    background-color: #0A4195;
+    border: none;
+    font-size: 11px;
+    border-radius: 5px;
+    top: -16px;
+    padding: 2px 18px;
+    color: white;
+    left: 96px;
+}
+
+
+
+
+@media only screen and (max-width: 1280px) {
+    .FieldSalesRepView {
+        left: 87px !important;
+    }
+}
+
+@media only screen and (max-width: 1024px) {
+    .FieldSalesRepView {
+        left: 58px !important;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .FieldSalesRepView {
+        left: 176px !important;
+    }
+}
+
+.FieldSalesRepFunctionalSkills {
+    color: #0A4195;
+    text-align: center;
+    margin-top: 27px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
+
+.FieldSalesRep-block {
+    text-align: center;
+}
+
+.field {
+    border: 1px solid rgb(243 239 239);
+    border-radius: 8px;
+    padding: 10px;
+} */
+
+.FieldSalesRepImage {
+    margin-top: 30px;
+    border-radius: 50%;
+    width: 90px;
+    height: 90px;
+}
+
+.field-body {
+    display: flex;
+    border-radius: 8px;
+    align-items: center;
+    border: 1px solid rgb(243 239 239);
+    justify-content: center;
+    flex-direction: column;
+}
+
+.FieldSalesRepView {
+    position: relative;
+    background-color: #0A4195;
+    border: none;
+    font-size: 11px;
+    border-radius: 5px;
+    top: -16px;
+    padding: 2px 18px;
+    color: white;
+    /* left: 96px; */
+}
+
+.FieldSalesRepFunctionalSkills {
+    color: #0A4195;
+    text-align: center;
+    margin-bottom: 26px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+}
